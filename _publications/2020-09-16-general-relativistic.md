@@ -2,9 +2,21 @@
 title: "General relativistic nonideal fluid equations for dark matter from a truncated cumulant expansion"
 collection: publications
 permalink: /publication/2020-09-16-general-relativistic
-date: 2020-09-16
+year: 2020
 venue: 'Physical Review D'
+authors: 'Erschfeld, Alaric and Floerchinger, Stefan and Rupprecht, Maximilian'
 paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.063520'
-citation: 'Alaric Erschfeld, Stefan Floerchinger, and Maximilian Rupprecht (2020). &quot;General relativistic nonideal fluid equations for dark matter from a truncated cumulant expansion.&quot; <i>Phys. Rev. D 102, 063520</i>.'
+bibtex: "@article{erschfeld2020general,\n
+  title = {General relativistic nonideal fluid equations for dark matter from a truncated cumulant expansion},\n
+  author = {Erschfeld, Alaric and Floerchinger, Stefan and Rupprecht, Maximilian},\n
+  journal = {Phys. Rev. D},\n
+  volume = {102},\n
+  issue = {6},\n
+  pages = {063520},\n
+  numpages = {11},\n
+  year = {2020},\n
+  publisher = {American Physical Society},\n
+  doi = {10.1103/PhysRevD.102.063520},\n
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.102.063520}
+}"
 ---
-A new truncation scheme based on the cumulant expansion of the one-particle phase-space distribution function for dark matter particles is developed. Extending the method of moments in relativistic kinetic theory, we derive evolution equations which supplement the covariant conservation of the energy-momentum tensor and particle number current. Truncating the cumulant expansion we obtain a closed, covariant and hyperbolic system of equations which can be used to model the evolution of a general relativistic nonideal fluid. As a working example we consider a Friedmann-Lemaître-Robertson-Walker cosmology with dynamic pressure and solve for the time evolution of the effective equation of state parameter.

@@ -13,7 +13,7 @@ Education
 ======
 * Since 2020: **PhD** in Theoretical and Mathematical Physics, Leibniz Universität Hannover
   * Dissertation: *Nicolai maps in supersymmetric Yang-Mills theories.* Supervisor: [Olaf Lechtenfeld](https://www.itp.uni-hannover.de/lechtenf.html)
-  * Supported by a PhD scholarship from the [German Academic Foundation](https://www.studienstiftung.de/)
+  * Supported by a PhD scholarship from the [German Academic Foundation](https://www.studienstiftung.de/en)
 * 2019-2020: **MSc** in Mathematical Physics **with Distinction**, The University of Edinburgh
   * Dissertation: *Amplitudes, Recursions and Twistor Theory.* Supervisor: [Tim Adamo](https://www.maths.ed.ac.uk/~tadamo/)
   * Supported by one of two [Higgs Centre](https://higgs.ph.ed.ac.uk/) Prize Scholarships for the MSc programme

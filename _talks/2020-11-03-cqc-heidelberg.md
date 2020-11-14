@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2020-11-03-cqc-heidelberg
 venue: "Cold Quantum Coffee seminar (online due to Covid-19)"
 date: 2020-11-03
-location: "Institute for Theoretical Physics, Philosophenweg 16, Heidelberg University"
+location: "Institute for Theoretical Physics, Philosophenweg 16, Heidelberg University, Germany"
 ---
 Talk at the [Cold Quantum Coffee](https://www.thphys.uni-heidelberg.de/~cqc/) seminar at the Institute for Theoretical Physics, Philosophenweg 16, Heidelberg University. (Online due to Covid-19)
 

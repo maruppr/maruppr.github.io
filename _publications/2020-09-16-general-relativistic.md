@@ -20,3 +20,4 @@ bibtex: "@article{erschfeld2020general,\n
   url = {https://link.aps.org/doi/10.1103/PhysRevD.102.063520}
 }"
 ---
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.063520

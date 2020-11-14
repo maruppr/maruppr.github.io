@@ -12,4 +12,5 @@ I am a PhD student in the research group of [Olaf Lechtenfeld](https://www.itp.u
 
 News
 ======
-* (10/2020) I received a PhD scholarship from the [German Academic Foundation](https://www.studienstiftung.de/) (Studienstiftung des deutschen Volkes)
+* (10/2020) I was granted a PhD scholarship from the [German Academic Foundation](https://www.studienstiftung.de/) (Studienstiftung des deutschen Volkes)
+* (08/2020) My first [paper](https://maruppr.github.io/publication/2020-09-16-general-relativistic) got accepted at Physical Review D

@@ -39,5 +39,5 @@ Talks
   
 Teaching
 ======
-* SS 2021: Teaching Assistant for **Statistical Field Theory**
+* SS 2021: Teaching Assistant for a graduate level course on **Statistical Field Theory**
 

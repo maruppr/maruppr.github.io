@@ -39,7 +39,5 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* SS 2021: Teaching Assistant for **Statistical Field Theory**
 

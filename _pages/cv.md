@@ -24,18 +24,6 @@ Education
 Work experience
 ======
 * 11/2020-12/2020: Research Assistant at Leibniz Universität Hannover
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
